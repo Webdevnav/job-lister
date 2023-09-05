@@ -16,7 +16,7 @@ Having user,author,admin role and permissions <br/>
 
 ## 1. Clone the repository
 
->
+> https://github.com/Webdevnav/job-lister.git
 
 <br />
 
